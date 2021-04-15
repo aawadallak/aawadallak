@@ -4,7 +4,7 @@
 
 Olá, me chamo Alexandre, sou brasileiro 🌎,  me graduei como Engenheiro Ambiental 🌲 no Paraná, mas sou apaixonado pela programação, atualmento estudo na Alura e focado em se tornar um FullStack Dev. 
 
-[![Youtube Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](alexandre.awadallak@gmail.com)
+[![Youtube Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=alexandre.awadallak@gmail.com)](alexandre.awadallak@gmail.com)
 
 Qual o meu projeto para o futuro?
 Atuar na área de desenvolvimento onde me encaixei e me vejo como um profissional..

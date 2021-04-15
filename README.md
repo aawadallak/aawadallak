@@ -11,4 +11,5 @@ Linguages que atualmente estudo:
 
 "Seja melhor que ontem"
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aawadallak)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aawadallak&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aawadallak)](https://github.com/anuraghazra/github-readme-stats)

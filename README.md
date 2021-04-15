@@ -1,5 +1,5 @@
 # Heey👋
-Olá, eu sou  Alexandre Yasser Awadallak, sou engenheiro ambiental, e aspirante a Full-Stack Dev... 
+##"As vezes um pequeno passo, é o começo de uma grande jornada"
 
 Linguages que atualmente estudo: 
 

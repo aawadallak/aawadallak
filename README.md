@@ -10,3 +10,5 @@ Linguages que atualmente estudo:
  5. Flutter
 
 "Seja melhor que ontem"
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aawadallak)](https://github.com/anuraghazra/github-readme-stats)

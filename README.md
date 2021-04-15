@@ -5,7 +5,10 @@
 </p>
 
 
-Olá, me chamo Alexandre, sou brasileiro 🌎,  me graduei como Engenheiro Ambiental 🌲 no Paraná, mas sou apaixonado pela programação, atualmento estudo na Alura e focado em se tornar um FullStack Dev. 
+🌎 Olá, me chamo Alexandre, sou brasileiro <br>
+🌲 Sou Engenheiro Ambiental no Paraná <br>
+💖 Apaixonado pela programação <br>
+🎓 Aluno da Alura cursos 🏆
 
 ### Como me encontrar?
 
@@ -18,9 +21,9 @@ Olá, me chamo Alexandre, sou brasileiro 🌎,  me graduei como Engenheiro Ambie
 🏆 Atuar na área de desenvolvimento onde me encaixei e me vejo como um profissional..
 
 ### 🎯 O que estou aprendendo hoje em dia? <br>
-[![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]
-[![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)]
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)]
+![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aawadallak&count_private=true&theme=gradient)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aawadallak&layout=compact&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)

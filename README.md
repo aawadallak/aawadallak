@@ -25,6 +25,11 @@
 ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aawadallak&count_private=true&theme=gradient)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aawadallak&layout=compact&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=aawadallak&count_private=true&" alt="Your image title" heigth="200" width="50%"/>
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aawadallak&layout=compact&" alt="Your image title" heigth="200" width="50%"/>
+</p>
 

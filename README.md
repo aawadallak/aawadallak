@@ -16,7 +16,7 @@
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/aawadallak)](https://t.me/aawadallak)
 
 ### 🎯 What do I work with today? ? <br>
-Iam a Software Developer, we use Golang for Backend, and JS(Vue-JS) on ours Frontend, we manage our services using docker for keep it on containers. My team work with microservices. My job today is develop solutions to ours anothers teams and improve ours frotend services and write new microservices. We value to use clean code, clean archicture, units tests and integration. 
+Iam a Software Developer, we use Golang for Backend, and Javascript (Vue-JS) on ours Frontend, we manage our services using docker for keep it on containers. My team work with microservices. My job today is develop solutions to ours anothers teams and improve ours frotend services and write new microservices. We value to use clean code, clean archicteture, units tests and integration
 
 ### Which is my project for the future?
 🏆 I want to work as Senior Developer and do a graduation in Software Engineer. I see myself in future as a great developer. 
